@@ -153,6 +153,8 @@ def main(config_path: str = "config.yaml"):
         write_metric_workbook(all_df, output_path)
         print(f"Wrote {output_path}")
 
+    print("Pipeline run successfully completed!")
+
 
 if __name__ == "__main__":
     config_arg = sys.argv[1] if len(sys.argv) > 1 else "config.yaml"

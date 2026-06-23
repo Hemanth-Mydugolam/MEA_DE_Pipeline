@@ -123,6 +123,7 @@ Found 30 CSV file(s) in C:\Users\you\Box\B6_30s bin_Treated at 10.82s
 Wrote Output\ANE2267_hDRG_1482908_061026_DIV05\Number_of_Spikes.xlsx
 Wrote Output\ANE2267_hDRG_1482908_061026_DIV05\Mean_Firing_Rate.xlsx
 Wrote Output\ANE2267_hDRG_1482908_061026_DIV05\Number_of_Bursts.xlsx
+Pipeline run successfully completed!
 ```
 
 #### Running with a different config file
