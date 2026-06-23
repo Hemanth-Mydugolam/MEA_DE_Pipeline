@@ -1,0 +1,8 @@
+# Path to the folder containing the experiment's neuralMetrics CSV files
+experiment_path: "C:\\Users\\hxm220004\\Box\\B6_30s bin_Treated at 10.82s"
+
+# Name used for the output folder (and as a prefix in logging)
+experiment_name: "ANE2267_hDRG_1482908_061026_DIV05"
+
+# Folder where the experiment_name output folder will be created
+output_dir: "Output"
